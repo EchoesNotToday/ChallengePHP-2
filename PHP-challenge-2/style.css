@@ -1,0 +1,15 @@
+.pair {
+	color: blue;
+}
+.impair {
+	color: orange;
+}
+
+.perfect_square_pair {
+	font-weight: bold;
+	color: blue;
+}
+.perfect_square_impair {
+	font-weight: bold;
+	color: orange;
+}
